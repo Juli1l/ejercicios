@@ -61,10 +61,10 @@ header{
    justify-content: space-between;
 }
 .view{
-   border:#9a9ca0 2px ;
+   border:#14264b 2px ;
    display: flex;
    justify-content: center;
    text-align: center;
    flex-direction: column;
-   color: #b5b8c0;
+   color: #73757a;
 }
